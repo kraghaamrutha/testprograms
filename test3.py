@@ -77,4 +77,4 @@ for item in lst:
         result.append(item * 3)
     else:
         result.append(item + '#')
-    print(result)
+print(result)
