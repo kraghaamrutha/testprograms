@@ -86,7 +86,7 @@ for entry in open("C:/Users/kragh/OneDrive/Desktop/testprograms/student assignme
 # # print(least_pass_percentage_faculty)
 print("faculty with highest pass percentage (> 40%): {}".format(least_pass_percentage_faculty))
 
-        
+
 
 
 ##  4 : who is the top student with maximum total.
